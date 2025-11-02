@@ -13,9 +13,8 @@ Archivos
 
 Cómo ejecutar
 -----------------------------------
-1. Abre una terminal (PowerShell) y navega a la carpeta donde clonaste o copiaste el repositorio.
-2. Ejecuta el programa:
-```powershell
-C:/Users/yahar/AppData/Local/Programs/Python/Python313/python.exe ConcesionarioPOO.py
-```
-3. Deberías ver en consola la ficha de cada vehículo y el total del inventario.
+1. Navega en el repositorio.
+2. Descarga el arhivo llamado (ConcesionarioPOO.py)
+3. Abre el archivo en VS
+4. Ejecuta el programa:
+5. Deberías ver en consola la ficha de cada vehículo y el total del inventario.
